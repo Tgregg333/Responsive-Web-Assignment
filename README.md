@@ -1,9 +1,9 @@
 # Dynamic Landing Page 
 
 # Languagae Usage
-JVS
-CSS
-HTML
+1.Javascript
+2.CSS
+3.HTML
 
 # Functionality
 1. Scrolling effect
