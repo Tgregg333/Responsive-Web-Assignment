@@ -11,5 +11,5 @@ HTML
 
 # Development
 1. Open chrome browser
-2.Go to index.html
-3.
+2. Go to index.html
+  
